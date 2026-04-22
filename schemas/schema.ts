@@ -15,3 +15,9 @@ export type Order = {
   product_id: string;
   user_id: string;
 };
+export type Review = {
+  id: string;
+  product_id: string;
+  user_id: string;
+  review: string;
+};

@@ -3,3 +3,8 @@ export type User = {
   password: string;
   age: number;
 };
+export type Product = {
+  name: string;
+  price: string;
+  age: number;
+};

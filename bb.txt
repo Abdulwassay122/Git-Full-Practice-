@@ -1,0 +1,21 @@
+Git Commands
+
+-Git Add
+-Git Commit
+-Git Merch
+-Git Fetch
+-Git Pull
+-Git Push
+-Git Stash 
+-Git Stash apply
+-Concept (Fork)
+-Git cherry pick
+-Git Rebase
+-Git Remote
+-Merge Conflict
+
+branches 
+git flow 
+
+logs
+ref logs
